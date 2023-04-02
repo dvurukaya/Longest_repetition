@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest_repetition_", "Longest_repetition_\Longest_repetition_.csproj", "{CE456FED-27D9-4964-A5C6-909464579651}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest_repetition_tests", "Longest_repetition_tests\Longest_repetition_tests.csproj", "{F13C6731-D0AA-46FA-A3EF-49D03627443F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE456FED-27D9-4964-A5C6-909464579651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE456FED-27D9-4964-A5C6-909464579651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE456FED-27D9-4964-A5C6-909464579651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE456FED-27D9-4964-A5C6-909464579651}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F13C6731-D0AA-46FA-A3EF-49D03627443F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F13C6731-D0AA-46FA-A3EF-49D03627443F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F13C6731-D0AA-46FA-A3EF-49D03627443F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F13C6731-D0AA-46FA-A3EF-49D03627443F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8C94FBA-C473-4A16-B003-D256B0473DC3}
+	EndGlobalSection
+EndGlobal
